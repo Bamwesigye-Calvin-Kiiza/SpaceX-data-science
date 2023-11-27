@@ -35,6 +35,7 @@ Follow the comments and instructions within the code for guidance.
 
 ## Technologies Used
 Programming Languages: Python
+
 Libraries/Frameworks: Pandas, NumPy, Plotly, Matplotlib, Dash, Folium, Scikit-learn
 ## Acknowledgments
 SpaceX API Documentation: SpaceX API
